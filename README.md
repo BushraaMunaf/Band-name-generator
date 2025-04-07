@@ -1,6 +1,6 @@
 # Band-name-generator
 
-Welcome the **band name generator** project! This project uses html for complete functonality.
+Welcome the **band name generator** project! This project uses JavaScript for complete functonality.
 
 ##Folder Structure:
 ...
